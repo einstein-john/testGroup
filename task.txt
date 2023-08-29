@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Hello world, another day another slay...
 manchester city
+=======
+ OMG a conflict ! 
+>>>>>>> Stashed changes
