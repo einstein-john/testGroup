@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 whatever i want to write here
+<<<<<<< Updated upstream
 einstein edited this file
 =======
  conflict is found 
+>>>>>>> Stashed changes
+=======
+whatever i want to write inside
 >>>>>>> Stashed changes
