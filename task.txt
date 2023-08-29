@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 Hello world, another day another slay...
+<<<<<<< Updated upstream
+manchester city
+=======
+ OMG a conflict ! 
+>>>>>>> Stashed changes
+=======
+lets go to the park
+>>>>>>> Stashed changes

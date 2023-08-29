@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
+ screw the summer
+=======
 <p>test group</p>
+this place is so fun
+>>>>>>> Stashed changes
