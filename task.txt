@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Hello world, another day another slay...
 <<<<<<< Updated upstream
 manchester city
@@ -7,4 +8,7 @@ manchester city
 >>>>>>> Stashed changes
 =======
 lets go to the park
+>>>>>>> Stashed changes
+=======
+Hello world, another day another slay...
 >>>>>>> Stashed changes
